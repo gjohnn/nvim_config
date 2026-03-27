@@ -1,6 +1,6 @@
 return {
   {
-    "echasnovski/mini.starter",
+    "nvim-mini/mini.starter",
     opts = function(_, opts)
       local logo = table.concat({
         "  ██████╗      ██╗  ██████╗  ██╗  ██╗ ███╗   ██╗",
